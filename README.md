@@ -66,3 +66,24 @@ Ideally Libreboot
 - Cardano
 - USDC and other stable coins (Send dollars over crypto)
 
+## Savings accounts
+
+### Proprietary but better than bank returns with stablecoins
+
+- BlockFi
+- Celsius
+- Voyager
+
+### Decentralized Finance
+
+- AAVE
+- Synthetix
+- Saffron.finance
+- Stacks
+- Vesper
+
+## TV/Movies
+
+- ?
+- Probably better off without tbh
+
