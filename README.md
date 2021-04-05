@@ -35,7 +35,7 @@ I hear Vultr is good
 - MyKi (Interesting because no cloud, not sure if free tho)
 - Bitwarden (Best with your own server)
 
-## Phone
+## Phone (Alternative to iPhone, and other Android Phones)
 
 - Graphene OS (This is the worst phone OS you should consider, can only load on Pixel(yuck))
 - Pinephone (Not powerful enough yet)
@@ -50,3 +50,19 @@ Ideally Libreboot
 - System76 (core booted versions)
 - Purism (why is the shift key on the right so small)
 - PinebookPro (Best cheap laptop I've seen)
+
+## Video/Streaming Platforms
+
+- Odysee
+- Theta
+- PeerTube
+- LivePeer
+
+## Money (Alternative to the Dollar and other Fiat currencies)
+
+- Bitcoin
+- Monero
+- Ethereum
+- Cardano
+- USDC and other stable coins (Send dollars over crypto)
+
