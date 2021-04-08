@@ -34,6 +34,7 @@ I hear Vultr is good
 
 - MyKi (Interesting because no cloud, not sure if free tho)
 - Bitwarden (Best with your own server)
+- KeePass (or derivative e.g., KeePassXC)
 
 ## Phone (Alternative to iPhone, and other Android Phones)
 
