@@ -39,6 +39,7 @@ I am tracking my progress towards freedom here
 - MyKi (Interesting because no cloud, not sure if free tho)
 - Bitwarden (Best with your own server)
 - Keepassxc (This is the best, save password file to a thumbdrive)
+- Pass (unix standard password manager, even better than keepass)
 
 ## Phone (Alternative to iPhone, and other Android Phones)
 
