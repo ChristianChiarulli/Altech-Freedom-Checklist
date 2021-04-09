@@ -27,8 +27,8 @@ I am tracking my progress towards freedom here
 - Brier (All on device, can be used with no net access)  
 
 ## Music
-Plex (This is the worst you should even consider)
-Jellyfin (Really for video, but can do music too)
+- Plex (This is the worst you should even consider)
+- Jellyfin (Really for video, but can do music too)
 
 ## VPS (Alternative to AWS, Google Cloud, Azure)
 - Vultr
@@ -55,7 +55,7 @@ Ideally Libreboot
 - System76 (core booted versions)
 - Purism (why is the shift key on the right so small)
 - PinebookPro 
-- Chromebook (Corebook with mrchromebox and you get a rugged laptop for $60)
+- Chromebook (Coreboot with mrchromebox and you get a rugged laptop for $60)
 
 ## Video/Streaming Platforms
 
