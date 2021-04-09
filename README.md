@@ -24,7 +24,9 @@ I am tracking my progress towards freedom here
 - Signal (Needs a phone number, not ideal)
 - Matrix (Chad chat app, no need for number or email)
 - Session (Also Chad but a bit newer)
-- Brier (All on device, can be used with no net access)  
+- Brier (All on device, can be used with no net access)
+- Nextcloud Talk (nextcloudpi works great for this)
+
 
 ## Music
 - Plex (This is the worst you should even consider)
@@ -69,20 +71,25 @@ Ideally Libreboot
 ## Money (Alternative to the Dollar and other Fiat currencies)
 
 - Bitcoin
+- Lighting (built on Bitcoin but usable like cash)
 - Monero
 - Ethereum
 - Cardano
 - USDC and other stable coins (Send dollars over crypto)
 
+## Node (self host)
+- RaspiBlitz (Lighting node on Pi)
+- Umbrel (Lighting node on Pi marketed to be easy for anyone)
+
 ## Savings accounts
 
-### Proprietary but better than bank returns with stablecoins
+## Proprietary but better than bank returns with stablecoins
 
 - BlockFi
 - Celsius
 - Voyager
 
-### Decentralized Finance
+## Decentralized Finance
 
 - AAVE
 - Synthetix
