@@ -49,6 +49,8 @@ I am tracking my progress towards freedom here
 - Graphene OS (This is the worst phone OS you should consider, can only load on Pixel)
 - Pinephone (Not powerful enough yet)
 - Librem5 (Not powerful enough yet, and is a absolute unit)
+- /e/OS (Ungoogled OS has good support for a lot of Operating Systems)
+- ubuntu touch (Full ubuntu distro for phone)
 
 ## Laptop
 
