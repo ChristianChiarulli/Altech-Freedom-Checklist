@@ -107,3 +107,9 @@ Ideally Libreboot
 - Jellyfin (the best for streaming)
 - Kodi 
 
+## Maps
+
+- OpenStreetMap 
+- OpenRouteService
+
+
