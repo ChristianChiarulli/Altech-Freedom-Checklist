@@ -33,6 +33,7 @@ I am tracking my progress towards freedom here
 - Jellyfin (Really for video, but can do music too)
 
 ## VPS (Alternative to AWS, Google Cloud, Azure)
+- Filebase
 - Vultr
 - Linode
 
