@@ -113,4 +113,9 @@ Ideally Libreboot
 - OpenStreetMap 
 - OpenRouteService
 
+## Git version control
+- [ Gitea ]( https://gitea.com/ )
+- [ Codeberg ](https://codeberg.org)
+- [ Gitea self host ](https://github.com/go-gitea/gitea)
+
 
